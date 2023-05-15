@@ -1,2 +1,2 @@
 # TEMPLATE REPOSITORI URANG KEUR PROJECT ANYAR
-## Branch nya Release, Current, Testing, Production, Debugging
+## Branch nya Current, Testing, Production, Debugging
